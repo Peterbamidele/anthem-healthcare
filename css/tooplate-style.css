@@ -110,7 +110,7 @@ http://www.tooplate.com/view/2098-health
     background: #a5c422;
     border: 0;
     border-radius: 3px;
-    color: #6d6060;
+    color: #1a0e12;
     font-size: inherit;
     font-weight: 500;
     padding: 14px 20px;
@@ -137,7 +137,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .btn-gray {
-    background: #050303;
+    background: #999494;
   }
 
   .btn-blue {
@@ -166,7 +166,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .author {
-    border-top: 1px solid #6b6565;
+    border-top: 1px solid #d6c5c5;
     padding-top: 1.5em;
     margin-top: 2em;
   }
@@ -259,7 +259,7 @@ http://www.tooplate.com/view/2098-health
   -----------------------------------------*/
 
   header {
-    background: #221b1b;
+    background: #8b8080;
     border-bottom: 1px solid #f2f2f2;
     display: flex;
     height: 45px;
@@ -278,7 +278,7 @@ http://www.tooplate.com/view/2098-health
 
   header a,
   header span {
-    color: #747474;
+    color: #0e0808;
   }
 
   header span {
